@@ -175,7 +175,7 @@ Variables & Data Types Problems
 - [ ] Functions Problem #7: Function to Check if Number is Perfect
 - [ ] Functions Problem #24: Function to Print All Divisors of a Number
 
-## 🌟 Stars Pattern Problems (From Easy to Hard)
+## 🌟 Stars Pattern Problems (From Easy to Hard)(optional)
 
 ---
 
@@ -214,3 +214,4 @@ Variables & Data Types Problems
 - Use `for` or `while` loops, and practice spacing logic.
 - Focus on controlling both rows and columns.
 - These problems are great for mastering nested loops and conditions.
+
